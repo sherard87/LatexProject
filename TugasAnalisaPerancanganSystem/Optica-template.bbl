@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{Agile:01}
+B.~Kent and et~al, \enquote{Manifesto for agile software development,}
+  Manifesto for Agile Software Development  (2010).
+
+\bibitem{DevOps:02}
+S.~Kenefick, \enquote{Blueprint for architecting a devops continuous delivery
+  pipeline,} Blueprint for Architecting a DevOps Continuous Delivery Pipeline
+  (2015).
+
+\end{thebibliography}

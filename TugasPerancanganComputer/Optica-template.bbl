@@ -1,0 +1,8 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{Agile:01}
+B.~Kent and et~al, \enquote{Manifesto for agile software development,}
+  Manifesto for Agile Software Development  (2010).
+
+\end{thebibliography}
