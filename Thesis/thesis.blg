@@ -1,0 +1,28 @@
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 3.71 (18 mar 2013)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: thesis.aux
+A level-1 auxilliary file: Dedication/dedication.aux
+A level-1 auxilliary file: Declaration/declaration.aux
+A level-1 auxilliary file: Acknowledgement/acknowledgement.aux
+A level-1 auxilliary file: Abstract/abstract.aux
+A level-1 auxilliary file: Chapter1/chapter1.aux
+A level-1 auxilliary file: Chapter2/chapter2.aux
+A level-1 auxilliary file: Chapter3/chapter3.aux
+The style file: apalike.bst
+A level-1 auxilliary file: Appendix1/appendix1.aux
+A level-1 auxilliary file: Appendix2/appendix2.aux
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=20001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
+Database file #1: References/references.bib
+
+Here's how much of BibTeX's memory you used:
+ Cites:                 6 out of 750
+ Fields:               99 out of 5000
+ Hash table:        35180 out of 35307
+ Strings:             523 out of 35307
+ Free string pool:   4783 out of 65000
+ Wizard functions:   1935 out of 3000
